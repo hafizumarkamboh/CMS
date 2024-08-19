@@ -1,0 +1,357 @@
+CRITICAL - 2024-08-18 06:19:17 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:21:21 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:21:39 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:22:22 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:22:35 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:24:34 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:24:55 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:25:53 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:25:55 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:27:41 --> Error: Call to undefined function get_general_settings()
+[Method: GET, Route: auth/login]
+in APPPATH\Views\Auth\Login.php on line 33.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Auth/Login', [], true)
+ 4 APPPATH\Controllers\Auth\Login.php(20): view('Auth/Login', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:27:52 --> ErrorException: Undefined variable $title
+[Method: GET, Route: auth/login]
+in APPPATH\Views\Auth\Login.php on line 7.
+ 1 APPPATH\Views\Auth\Login.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\CMS\\app\\Views\\Auth\\Login.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\CMS\\app\\Views\\Auth\\Login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Auth/Login', [], true)
+ 5 APPPATH\Controllers\Auth\Login.php(20): view('Auth/Login')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:27:54 --> ErrorException: Undefined variable $title
+[Method: GET, Route: auth/login]
+in APPPATH\Views\Auth\Login.php on line 7.
+ 1 APPPATH\Views\Auth\Login.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\CMS\\app\\Views\\Auth\\Login.php', 7)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\CMS\\app\\Views\\Auth\\Login.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Auth/Login', [], true)
+ 5 APPPATH\Controllers\Auth\Login.php(20): view('Auth/Login')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:36:23 --> ErrorException: Undefined property: App\Controllers\Auth\Login::$session
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 16.
+ 1 APPPATH\Controllers\Auth\Login.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Auth\\Login::$session', 'C:\\CMS\\app\\Controllers\\Auth\\Login.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 06:36:36 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: GET, Route: auth/login]
+in APPPATH\Controllers\Auth\Login.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+ERROR - 2024-08-18 06:45:00 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\CMS\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\CMS\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\CMS\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\CMS\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\CMS\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#4 C:\CMS\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#5 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#6 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:create', Array)
+#7 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#8 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#9 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\CMS\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\CMS\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\CMS\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\CMS\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#3 C:\CMS\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#4 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#5 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:create', Array)
+#6 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#7 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#8 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#9 {main}
+ERROR - 2024-08-18 06:47:24 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\CMS\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\CMS\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), '', 3306, '', 0)
+#1 C:\CMS\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\CMS\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\CMS\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#4 C:\CMS\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#5 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#6 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:create', Array)
+#7 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#8 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#9 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\CMS\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\CMS\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\CMS\system\Database\Database.php(68): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\CMS\system\Database\Config.php(111): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#3 C:\CMS\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Config::forge()
+#4 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#5 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:create', Array)
+#6 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#7 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#8 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#9 {main}
+ERROR - 2024-08-18 06:50:28 --> mysqli_sql_exception: Can't create database 'cms'; database exists in C:\CMS\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\CMS\system\Database\MySQLi\Connection.php(312): mysqli->query('CREATE DATABASE...', 0)
+#1 C:\CMS\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('CREATE DATABASE...')
+#2 C:\CMS\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE DATABASE...')
+#3 C:\CMS\system\Database\Forge.php(232): CodeIgniter\Database\BaseConnection->query('CREATE DATABASE...')
+#4 C:\CMS\system\Commands\Database\CreateDatabase.php(136): CodeIgniter\Database\Forge->createDatabase('cms')
+#5 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\CreateDatabase->run(Array)
+#6 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:create', Array)
+#7 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#8 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#9 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#10 {main}
+ERROR - 2024-08-18 06:51:21 --> mysqli_sql_exception: MySQL server has gone away in C:\CMS\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\CMS\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `lo...', 0)
+#1 C:\CMS\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `lo...')
+#2 C:\CMS\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `lo...')
+#3 C:\CMS\app\Database\Seeds\Development\Locations.php(13): CodeIgniter\Database\BaseConnection->query('INSERT INTO `lo...')
+#4 C:\CMS\system\Database\Seeder.php(147): App\Database\Seeds\Development\Locations->run()
+#5 C:\CMS\app\Database\Seeds\Development.php(34): CodeIgniter\Database\Seeder->call('App\\Database\\Se...')
+#6 C:\CMS\system\Database\Seeder.php(147): App\Database\Seeds\Development->run()
+#7 C:\CMS\system\Commands\Database\Seed.php(79): CodeIgniter\Database\Seeder->call('App\\Database\\Se...')
+#8 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Seed->run(Array)
+#9 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#10 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+ERROR - 2024-08-18 06:51:33 --> mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in C:\CMS\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\CMS\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\CMS\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\CMS\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\CMS\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\CMS\app\Database\Seeds\Development\UserRole.php(16): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\CMS\system\Database\Seeder.php(147): App\Database\Seeds\Development\UserRole->run()
+#6 C:\CMS\app\Database\Seeds\Development.php(27): CodeIgniter\Database\Seeder->call('App\\Database\\Se...')
+#7 C:\CMS\system\Database\Seeder.php(147): App\Database\Seeds\Development->run()
+#8 C:\CMS\system\Commands\Database\Seed.php(79): CodeIgniter\Database\Seeder->call('App\\Database\\Se...')
+#9 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Seed->run(Array)
+#10 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#11 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#12 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#13 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#14 {main}
+ERROR - 2024-08-18 06:54:44 --> mysqli_sql_exception: MySQL server has gone away in C:\CMS\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\CMS\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `lo...', 0)
+#1 C:\CMS\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `lo...')
+#2 C:\CMS\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `lo...')
+#3 C:\CMS\app\Database\Seeds\Development\Locations.php(13): CodeIgniter\Database\BaseConnection->query('INSERT INTO `lo...')
+#4 C:\CMS\system\Database\Seeder.php(147): App\Database\Seeds\Development\Locations->run()
+#5 C:\CMS\app\Database\Seeds\Development.php(34): CodeIgniter\Database\Seeder->call('App\\Database\\Se...')
+#6 C:\CMS\system\Database\Seeder.php(147): App\Database\Seeds\Development->run()
+#7 C:\CMS\system\Commands\Database\Seed.php(79): CodeIgniter\Database\Seeder->call('App\\Database\\Se...')
+#8 C:\CMS\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Seed->run(Array)
+#9 C:\CMS\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#10 C:\CMS\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\CMS\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\CMS\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2024-08-18 07:06:00 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:06:08 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:08:44 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:09:38 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:09:46 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:10:46 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:12:08 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
+CRITICAL - 2024-08-18 07:13:09 --> Error: Call to undefined function App\Controllers\Auth\trans()
+[Method: POST, Route: auth/login-post]
+in APPPATH\Controllers\Auth\Login.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Auth\Login->admin_login_post()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\CMS\\public\\index.php')
